@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="CleanApp.API/CleanApp.API.csproj" Id="82913da0-dac0-4571-9369-f5e1298c8f01" />
+  <Project Path="CleanApp.Application/CleanApp.Application.csproj" Id="585258d7-afa1-4755-a8f6-07665c1c092f" />
+  <Project Path="CleanApp.Domain/CleanApp.Domain.csproj" Id="2000c92f-6c30-46dd-ab24-940bb178f464" />
+  <Project Path="CleanApp.Infrastructure/CleanApp.Infrastructure.csproj" Id="ba2d0ad9-2b5b-4582-9785-597853cf29af" />
+</Solution>
